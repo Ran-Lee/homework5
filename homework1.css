@@ -1,0 +1,61 @@
+#father{
+
+ width: 277px;
+
+border:10px solid green;
+
+
+}
+
+
+#header{
+
+
+
+height: 206px;
+
+background: no-repeat url(../images/天气.png) #0a73e8;
+
+}
+
+#middle{
+
+
+
+	height: 39px;
+
+	background: no-repeat url(../images/天气合并.png) 228px 8px #0664d6;
+
+	border-bottom: 1px solid #10259a;
+}
+
+#third{
+
+height: 38px;
+
+background: no-repeat url(../images/天气合并.png)  228px -33px  #0768d9;
+
+border-top: 1px solid #04abf2;
+
+border-bottom: 1px solid #0b2596;
+
+
+
+}
+
+#last{
+
+
+
+height: 37px;
+
+background: no-repeat url(../images/天气合并.png)  228px -73px #046cdd;
+
+/*border-bottom:  2px solid #35275a;
+*/
+border-top: 1px solid #0eb0f9;
+ 
+
+
+
+}

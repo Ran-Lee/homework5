@@ -1,0 +1,78 @@
+#father3{
+ 
+ width: 298px;
+
+}
+
+
+#header{
+
+
+
+height: 28px;
+
+background: #f6f6f6;
+
+border: 1px solid #cfcfcf;
+
+
+
+}
+#second{
+
+
+
+height:57px;
+
+background: no-repeat url(../images/last.png) 9px 25px #ffffff;
+
+border-left: 1px solid #cfcfcf;
+
+border-right: 1px solid #cfcfcf;
+
+}
+
+#third{
+
+
+
+height: 126px;
+
+background: no-repeat url(../images/last.png)  9px  -32px #f7f7f7;
+
+border-left: 1px solid #cfcfcf;
+
+border-right: 1px solid #cfcfcf;
+
+
+}
+#forth{
+
+
+
+height: 76px;
+
+background: no-repeat url(../images/last.png)  9px  -158px #ffffff;
+
+border-left: 1px solid #cfcfcf;
+
+border-right: 1px solid #cfcfcf;
+
+
+}
+#fifth{
+
+
+
+height: 127px;
+
+background: no-repeat url(../images/last.png)  9px  -234px #f7f7f7;
+
+border:1px solid #cfcfcf;
+
+border-top: none;
+
+
+
+
+}

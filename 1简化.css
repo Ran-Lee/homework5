@@ -1,0 +1,40 @@
+.father {
+
+width: 277px;
+
+margin: 0 auto;
+
+}
+div div {
+
+background:url(../images/天气合并.png) no-repeat #0664d6; 
+
+}
+
+.b1{
+
+height: 206px;
+
+background: no-repeat url(../images/天气.png) #0875ea;
+}
+
+.b2{
+
+    height: 38px;
+   
+   background-position:  228px 8px;
+	
+}
+.b3{
+
+border-bottom: 1px solid #10259a;
+
+}
+
+.b4{
+
+border-top: 1px solid #04abf2;
+
+background-position: 228px -73px;
+
+}

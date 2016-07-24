@@ -1,0 +1,54 @@
+.c{
+
+width: 298px;
+
+margin: 0 auto;
+
+border: 5px solid pink;
+
+}
+div div{
+
+	background: no-repeat url(../images/last.png);
+}
+.c2{
+
+
+height:57px;
+
+background-position:9px 25px;
+
+background-color: #ffffff;
+}
+.c1{
+
+height: 28px;
+
+background: #f6f6f6;
+
+border-bottom: 1px solid #cfcfcf;
+}
+
+.c3{
+
+height: 126px;
+
+background-position:9px  -32px ;
+
+background-color: #f7f7f7;
+
+}
+.c4{
+
+height: 76px;
+
+background-position: 9px  -158px ;
+
+}
+.c5{
+
+height: 127px;
+
+background-position: 9px  -234px ;
+
+}
